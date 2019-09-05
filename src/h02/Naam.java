@@ -5,7 +5,7 @@ import java.applet.*;
 
 public class Naam extends Applet {
 
-    //een (lege) methode die de Applet initialiseert
+    //een (lege) methode die de Applet initialiseer
     public void init() {
         setBackground(Color.MAGENTA);
     }
